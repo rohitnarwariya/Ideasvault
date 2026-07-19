@@ -1,0 +1,6 @@
+{
+  "name": "IdeaVault",
+  "description": "An Inspiration Vault for creators to capture why saved content matters.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
